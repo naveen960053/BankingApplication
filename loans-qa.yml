@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome to Loans related APIs"
+  contactDetails:
+    name: "Naveen - tester"
+    email: "naveen@gmail.com"
+  onCallSupport:
+    - 9600537905
+    - 8248392127
+

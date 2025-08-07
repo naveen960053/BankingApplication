@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to card related QA APIs"
+  contactDetails:
+    name: "Naveen - QA"
+    email: "naveen@gmail.com"
+  onCallSupport:
+    - 9600537905
+    - 8248392127

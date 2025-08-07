@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards related APIs"
+  contactDetails:
+    name: "Naveen - Developer"
+    email: "naveen@gmail.com"
+  onCallSupport:
+    - 9600537905
+    - 8248392127

@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+loans:
+  message: "Welcome to Loans related APIs in File System Approach"
+  contactDetails:
+    name: "Naveen - Owner"
+    email: "naveen@gmail.com"
+  onCallSupport:
+    - 9600537905
+    - 8248392127

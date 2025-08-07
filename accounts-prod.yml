@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to card related production APIs"
+  contactDetails:
+    name: "Naveen - Product Owner"
+    email: "naveen@gmail.com"
+  onCallSupport:
+    - 9600537905
+    - 8248392127

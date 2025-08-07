@@ -2,7 +2,7 @@ build:
   version : "3.0"
 
 cards:
-  message: "Welcome to cards related APIs"
+  message: "Welcome to cards related APIs in prod enviroinment"
   contactDetails:
     name: "Naveen - Product Owner"
     email: "naveen@gmail.com"

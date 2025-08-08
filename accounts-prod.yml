@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to card related to prod APIs in github repository"
+  message: "Welcome to card related to prod hookdeck APIs in github repository"
   contactDetails:
     name: "Naveen - Product Owner"
     email: "{cipher}7c8db0c6327f2dec01752901841b295e2a38acd0fc8a4046f69a946065afd566b0807f48e5e968c3a9f3eb3ecb8a80d2"

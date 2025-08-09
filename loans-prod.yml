@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to Loans related APIs in File System Approach in prod enviroinments"
+  message: "Welcome to Loans related APIs in prod enviroinments using docker"
   contactDetails:
     name: "Naveen - Owner"
     email: "naveen@gmail.com"

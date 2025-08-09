@@ -2,7 +2,7 @@ build:
   version : "3.0"
 
 cards:
-  message: "Welcome to cards related Wbhook APIs in prod enviroinment"
+  message: "Welcome to cards related Wbhook APIs in prod enviroinment using docker compose"
   contactDetails:
     name: "Naveen - Product Owner"
     email: "naveen@gmail.com"
